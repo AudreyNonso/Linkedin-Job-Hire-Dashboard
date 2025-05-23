@@ -30,6 +30,6 @@ This Power BI dashboard explores job hiring trends on LinkedIn, analyzing applic
 I'm Nonso, a detail-oriented data enthusiast passionate about storytelling through visuals. I'm learning and building dashboards that solve real-world problems, with a focus on clarity, business value, and clean design.
 
 ## 📎 Files Included
-- `LinkedIn_Job_Hire_Dashboard.pbix` – Power BI file
+- `LinkedIn Dashboard.pbix` – Power BI file
 - `dashboard_overview.png` – Visual summary
 - `README.md` – This project description
