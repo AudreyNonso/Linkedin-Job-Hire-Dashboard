@@ -26,7 +26,7 @@ This Power BI dashboard visualizes LinkedIn job hiring trends across roles, comp
 - Business Analyst is the most applied role
 - Tata Consultancy leads in hiring and visibility
 - Bengaluru is the highest applicant area
-- Hybrid work is the preferred format among applicants
+- On-site work is the preferred format among applicants
 
 ## About Me
 I'm Nonso, a detail-oriented data enthusiast passionate about storytelling through visuals. I'm learning and building dashboards that solve real-world problems, with a focus on clarity, business value, and clean design.
