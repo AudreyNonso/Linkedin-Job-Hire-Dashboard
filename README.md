@@ -17,7 +17,9 @@ This Power BI dashboard explores job hiring trends on LinkedIn, analyzing applic
 
 ## 📷 Dashboard Preview
 
-([dashboard_overview.png](https://github.com/AudreyNonso/Linkedin-Job-Hire-Dashboard/commit/ba84405fc1f6646ef7ecfc4d510de0aed668a038#diff-ff5ae6ed6babae1cda5d3c304196d16b0a4a5f6a2aee808e235b5cca9dd53b22))
+![Dashboard Preview]([dashboard_overview.png](https://github.com/AudreyNonso/Linkedin-Job-Hire-Dashboard/commit/ba84405fc1f6646ef7ecfc4d510de0aed668a038#diff-ff5ae6ed6babae1cda5d3c304196d16b0a4a5f6a2aee808e235b5cca9dd53b22))
+
+![Dashboard Preview]
 
 ## 🧠 Insights Highlight
 - Business Analyst is the most applied role
