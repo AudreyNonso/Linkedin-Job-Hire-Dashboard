@@ -1,6 +1,7 @@
 # LinkedIn Job Hire Dashboard
 
-This Power BI dashboard explores job hiring trends on LinkedIn, analyzing applicant behavior, recruiting companies, job roles, and work preferences.
+
+This Power BI dashboard visualizes LinkedIn job hiring trends across roles, companies, locations, and work types. It includes KPI cards, interactivity with slicers, and a branded UI inspired by LinkedIn’s design.
 
 ## Tools Used
 - Power BI
